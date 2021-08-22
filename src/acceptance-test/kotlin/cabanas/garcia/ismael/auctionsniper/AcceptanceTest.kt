@@ -1,6 +1,6 @@
-package cabanas.garcia.ismael.meetup
+package cabanas.garcia.ismael.auctionsniper
 
-import cabanas.garcia.ismael.meetup.infrastructure.Application
+import cabanas.garcia.ismael.auctionsniper.infrastructure.Application
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest(

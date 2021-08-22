@@ -1,4 +1,4 @@
-package cabanas.garcia.ismael.meetup.infrastructure.testcontainer
+package cabanas.garcia.ismael.auctionsniper.infrastructure.testcontainer
 
 import org.springframework.boot.test.util.TestPropertyValues
 import org.springframework.context.ApplicationContextInitializer

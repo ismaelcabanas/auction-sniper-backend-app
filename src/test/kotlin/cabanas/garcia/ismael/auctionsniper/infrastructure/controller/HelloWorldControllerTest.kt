@@ -1,6 +1,6 @@
-package cabanas.garcia.ismael.meetup.infrastructure.controller
+package cabanas.garcia.ismael.auctionsniper.infrastructure.controller
 
-import cabanas.garcia.ismael.meetup.infrastructure.Application
+import cabanas.garcia.ismael.auctionsniper.infrastructure.Application
 import org.hamcrest.Matchers.equalTo
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired

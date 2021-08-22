@@ -1,4 +1,4 @@
-package cabanas.garcia.ismael.meetup.helper
+package cabanas.garcia.ismael.auctionsniper.helper
 
 import org.testcontainers.containers.DockerComposeContainer
 import java.io.File

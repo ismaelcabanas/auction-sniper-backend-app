@@ -1,7 +1,7 @@
-package cabanas.garcia.ismael.meetup.infrastructure
+package cabanas.garcia.ismael.auctionsniper.infrastructure
 
-import cabanas.garcia.ismael.meetup.infrastructure.testcontainer.KafkaTestContainerService
-import cabanas.garcia.ismael.meetup.infrastructure.testcontainer.TestContainerInitializer
+import cabanas.garcia.ismael.auctionsniper.infrastructure.testcontainer.KafkaTestContainerService
+import cabanas.garcia.ismael.auctionsniper.infrastructure.testcontainer.TestContainerInitializer
 import org.apache.kafka.clients.consumer.Consumer
 import org.apache.kafka.clients.consumer.ConsumerConfig
 import org.apache.kafka.common.serialization.StringDeserializer

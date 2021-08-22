@@ -1,4 +1,4 @@
-package cabanas.garcia.ismael.meetup.infrastructure
+package cabanas.garcia.ismael.auctionsniper.infrastructure
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
@@ -7,8 +7,8 @@ import org.springframework.cloud.openfeign.EnableFeignClients
 
 @SpringBootApplication(
   scanBasePackages = [
-    "cabanas.garcia.ismael.meetup.infrastructure.controller",
-    "cabanas.garcia.ismael.meetup.infrastructure.configuration"
+    "cabanas.garcia.ismael.auctionsniper.infrastructure.controller",
+    "cabanas.garcia.ismael.auctionsniper.infrastructure.configuration"
   ]
 )
 

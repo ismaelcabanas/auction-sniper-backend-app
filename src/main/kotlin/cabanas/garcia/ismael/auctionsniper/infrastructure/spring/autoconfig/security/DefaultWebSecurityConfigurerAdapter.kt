@@ -1,4 +1,4 @@
-package cabanas.garcia.ismael.meetup.infrastructure.spring.autoconfig.security
+package cabanas.garcia.ismael.auctionsniper.infrastructure.spring.autoconfig.security
 
 import org.springframework.boot.actuate.autoconfigure.security.servlet.EndpointRequest
 import org.springframework.boot.actuate.health.HealthEndpoint

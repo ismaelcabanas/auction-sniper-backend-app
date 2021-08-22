@@ -1,6 +1,6 @@
-package cabanas.garcia.ismael.meetup.infrastructure.configuration
+package cabanas.garcia.ismael.auctionsniper.infrastructure.configuration
 
-import cabanas.garcia.ismael.meetup.infrastructure.spring.autoconfig.security.DefaultWebSecurityConfigurerAdapter
+import cabanas.garcia.ismael.auctionsniper.infrastructure.spring.autoconfig.security.DefaultWebSecurityConfigurerAdapter
 import org.springframework.context.annotation.Configuration
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity
 

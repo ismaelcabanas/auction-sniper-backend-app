@@ -1,6 +1,6 @@
-package cabanas.garcia.ismael.meetup.infrastructure.testcases
+package cabanas.garcia.ismael.auctionsniper.infrastructure.testcases
 
-import cabanas.garcia.ismael.meetup.infrastructure.IntegrationTest
+import cabanas.garcia.ismael.auctionsniper.infrastructure.IntegrationTest
 import io.restassured.module.mockmvc.RestAssuredMockMvc.given
 import io.restassured.module.mockmvc.RestAssuredMockMvc.mockMvc
 import org.hamcrest.Matchers.equalTo
